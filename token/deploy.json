@@ -1,3 +1,32 @@
+//* se podría especificar los decimales 
+o no *//
+
+///* you could specify the decimals
+
+or not *//
+
+{
+
+    "p": "brc-20",
+
+    "op": "deploy",
+
+    "tick": "TOKN",
+
+    "max": "21000000",
+
+    "lim": "1000"
+
+}
+
+{
+    "p": "brc-20",
+    "op": "deploy",
+    "tick": "TOKN",
+    "max": "21000000",
+    "lim": "1000"
+}
+
 {
     "p": "brc-20",
     "op": "deploy",
